@@ -108,6 +108,10 @@
     <Compile Include="bookstableviewcontroller.designer.cs">
       <DependentUpon>bookstableviewcontroller.cs</DependentUpon>
     </Compile>
+    <Compile Include="booktableviewcell.cs" />
+    <Compile Include="booktableviewcell.designer.cs">
+      <DependentUpon>booktableviewcell.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
