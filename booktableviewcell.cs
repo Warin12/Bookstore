@@ -6,15 +6,14 @@ namespace Bookstore
 {
     public partial class booktableviewcell : UITableViewCell
     {
+        
+        private Book bookData;
 
-
-		private Book bookData;
-
-		public Book BookData
+        public Book BookData
         {
             get { return bookData; }
-            set
-            { bookData = value;
+            set {
+                bookData = value;
 
                 labelname.Text = bookData.Name;
                 labelyear.Text = bookData.Year.ToString();
@@ -23,10 +22,12 @@ namespace Bookstore
             }
         }
 
-        public booktableviewcell (IntPtr handle) : base (handle)
+       
+
+
+        public booktableviewcell (IntPtr handle) : base(handle)
         {
-        
-        }
+
         }
     }
 }
