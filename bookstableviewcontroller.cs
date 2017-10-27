@@ -19,6 +19,7 @@ namespace Bookstore
                 Name = "Harry Potter and the Sorcerer's Stone",
                 Publisher = "Bloomsbury",
                 Year = 1997
+           ImagePath = "Images/images.jpg"
             });
 			
             booklist.Add(new Book()
@@ -67,7 +68,7 @@ namespace Bookstore
         public string Author;
         public string Publisher;
         public int Year;
-    
+        public string ImagePath;
     
     }
 }
