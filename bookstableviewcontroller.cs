@@ -18,7 +18,7 @@ namespace Bookstore
                 Author = "J.K. Rowling", 
                 Name = "Harry Potter and the Sorcerer's Stone",
                 Publisher = "Bloomsbury",
-                Year = 1997
+                Year = 1997, 
            ImagePath = "Images/images.jpg"
             });
 			

@@ -7,3 +7,4 @@
 /Users/evanw8/Desktop/repos/Bookstore/Bookstore/obj/iPhoneSimulator/Debug/Bookstore.csproj.CoreCompileInputs.cache
 /Users/evanw8/Desktop/repos/Bookstore/Bookstore/obj/iPhoneSimulator/Debug/Bookstore.exe
 /Users/evanw8/Desktop/repos/Bookstore/Bookstore/obj/iPhoneSimulator/Debug/Bookstore.pdb
+/Users/evanw8/Desktop/repos/Bookstore/Bookstore/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/Images/pepee.png
